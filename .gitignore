@@ -2,3 +2,4 @@ package-lock.json
 *.bin
 *.base64
 settings.json
+apps/
