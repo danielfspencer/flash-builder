@@ -1,0 +1,11 @@
+{
+  "name": "flash-builder",
+  "version": "0.1.0",
+  "description": "Create Flash images for Blizzard 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Spencer",
+  "license": "GPL-3.0"
+}

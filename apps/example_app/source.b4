@@ -1,0 +1,5 @@
+The source file can be one of three formats:
+
+If .b4, will be compiled and assembled.
+If .asm, will be assembled.
+If .bin, will be directly used.
